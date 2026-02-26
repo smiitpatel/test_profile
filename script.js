@@ -18,7 +18,7 @@ window.addEventListener("scroll",function(){
 });
 
 // Typing Animation
-const words=["Frontend Developer","UI Specialist","Freelancer"];
+const words=["Frontend Developer","Backend Developer","FullStack Developer", "Problem Solver", "Fast Leaner"];
 let i=0,j=0,current="",isDeleting=false;
 
 function type(){
